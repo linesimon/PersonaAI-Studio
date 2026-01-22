@@ -1,0 +1,8 @@
+{
+  "name": "PersonaAI Studio",
+  "description": "An innovative character studio that maintains visual consistency across thousands of AI-generated situations. Create your character DNA and watch it come to life in any scenario with Gemini 3 Pro and Flash.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
